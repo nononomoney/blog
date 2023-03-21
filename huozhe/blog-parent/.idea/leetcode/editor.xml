@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="LeetcodeEditor">
+    <option name="projectConfig">
+      <map>
+        <entry key="$PROJECT_DIR$/../../../javaleetcode/ljmleetcode/src/leetcode/editor/cn/ZaiPaiXuShuZuZhongChaZhaoShuZiLcof.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../../../javaleetcode/ljmleetcode/src/leetcode/editor/cn/doc/content/ZaiPaiXuShuZuZhongChaZhaoShuZiLcof.md" />
+              <option name="path" value="$PROJECT_DIR$/../../../javaleetcode/ljmleetcode/src/leetcode/editor/cn/ZaiPaiXuShuZuZhongChaZhaoShuZiLcof.java" />
+              <option name="questionId" value="剑指 Offer 53 - I" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

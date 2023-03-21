@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/huozhe/blog-parent/blog-api/blog-api.iml" filepath="$PROJECT_DIR$/huozhe/blog-parent/blog-api/blog-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/huozhe/blog-parent/blog-parent.iml" filepath="$PROJECT_DIR$/huozhe/blog-parent/blog-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/huozhe.iml" filepath="$PROJECT_DIR$/.idea/huozhe.iml" />
+      <module fileurl="file://$PROJECT_DIR$/huozhe/java/mybatis_plus/mybatis_plus.iml" filepath="$PROJECT_DIR$/huozhe/java/mybatis_plus/mybatis_plus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/huozhe/study/study.iml" filepath="$PROJECT_DIR$/huozhe/study/study.iml" />
+    </modules>
+  </component>
+</project>

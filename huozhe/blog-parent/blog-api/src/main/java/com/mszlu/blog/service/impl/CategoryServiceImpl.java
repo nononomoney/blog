@@ -70,6 +70,7 @@ public class CategoryServiceImpl implements CategoryService {
 
         // 没有任何参数，所有一个空的LambdaQueryWrapper即可
         List<Category> categories = categoryMapper.selectList(new LambdaQueryWrapper<>());
+
         //页面交互的对象
 
         return Result.success(copyList(categories));
